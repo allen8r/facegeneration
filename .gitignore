@@ -1,0 +1,4 @@
+# exclude cache, checkpoints, and data
+.ipynb_checkpoints/*
+__pycache__/*
+data/*
